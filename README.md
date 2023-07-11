@@ -14,8 +14,17 @@ Componentes do projeto:
  -  2 x Módulos de Analógicos Ky023;
  -  Jumpers;
  -  Braço de MDF;
- 
- 
+
+-----------------------------
+
+**Projeto Montado**
+![Projeto Montado](Imagens/1.jpg)
+
+**Conexões no SensorShield V5.0**
+![Projeto Montado](Imagens/close.jpg)
+
+-----------------------------
+
 O código a seguir é responsável por estabelecer a comunicação entre os Joysticks e os Servos que movimentam o braço robótico. Isto é feito por intermédio do Arduino Uno e do SensorShield:
 
     #include <Servo.h> 
@@ -71,4 +80,4 @@ O código a seguir é responsável por estabelecer a comunicação entre os Joys
 
 **Link para o vídeo explicativo do funcionamento do projeto:**
 
-![Vídeo do Projeto](https://youtu.be/kIQm7T29txI)
+[Vídeo do Projeto](https://youtu.be/kIQm7T29txI)
