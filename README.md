@@ -27,6 +27,11 @@ Componentes do projeto:
 
 ![Conexões esquemáticas](Imagens/conexoes_arduino.png)
 
+O servo "Garra" abre e fecha a garra.
+O servo "Frente" altera a profundidade da braço.
+O servo "Altura" altera a altura da garra.
+O servo "Base" rotaciona a base do braço.
+
 -----------------------------
 
 O código a seguir é responsável por estabelecer a comunicação entre os Joysticks e os Servos que movimentam o braço robótico. Isto é feito por intermédio do Arduino Uno e do SensorShield:
