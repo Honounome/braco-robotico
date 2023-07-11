@@ -18,10 +18,14 @@ Componentes do projeto:
 -----------------------------
 
 **Projeto Montado**
+
 ![Projeto Montado](Imagens/1.jpg)
 
 **Conexões no SensorShield V5.0**
-![Projeto Montado](Imagens/close.jpg)
+
+![Conexões físicas](Imagens/close.jpg)
+
+![Conexões esquemáticas](Imagens/conexoes_arduino.png)
 
 -----------------------------
 
