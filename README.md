@@ -105,4 +105,4 @@ O código a seguir é responsável por estabelecer a comunicação entre os Joys
 
 **Link para o vídeo explicativo do funcionamento do projeto:**
 
-[Vídeo do Projeto](https://youtu.be/kIQm7T29txI)
+[Vídeo do Projeto](https://www.youtube.com/watch?v=W7UyJUvNewU)
